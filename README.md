@@ -1,6 +1,9 @@
 ## Mathematics for Machine Learning and Data Science
 
-This repository contains materials for learning mathematics for machine learning and data science.
+This repository is a collection of all the files, resources, notes, and code that I used to learn Mathematics for Machine Learning and Data Science. All the code and notes here have been gathered from various sources, and I have compiled them into this repository.
+
+### Note:
+The repository is not yet fully complete. I am working to compile and organize more materials.
 
 ### Folder Structure:
 - **Linear Algebra**: Resources covering vectors, matrices, eigenvalues, and matrix operations. Linear algebra forms the backbone of many machine learning algorithms, including PCA and neural networks.
