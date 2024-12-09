@@ -1,6 +1,6 @@
 ## Mathematics for Machine Learning and Data Science
 
-This repository is a collection of all the files, resources, notes, and code that I used to learn Mathematics for Machine Learning and Data Science. All the code and notes here have been gathered from various sources, and I have compiled them into this repository.
+This repository is kind of collection of all the files, resources, notes, and code that I used to learn Mathematics for Machine Learning and Data Science. 
 
 ### Note:
 The repository is not yet fully complete. I am working to compile and organize more materials.
