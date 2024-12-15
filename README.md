@@ -1,5 +1,5 @@
 # Mathematics for Machine Learning and Data Science
-This repository contains learning resources, slides, and materials from the DeepLearning.AI specialization "Mathematics for Machine Learning and Data Science" taught by Luis Serrano. The content covers essential mathematical concepts required for machine learning and data science.
+This repository contains learning resources, slides, and materials from the course "Mathematics for Machine Learning and Data Science" taught by Luis Serrano and Deep learning bi Ian Goodfellow. This repository is actively being developed.
 ## Repository Structure
 The repository is organized into three main courses:
 ### 1. Linear Algebra for Machine Learning and Data Science (2024 Update)
@@ -93,8 +93,5 @@ Confidence intervals
 Hypothesis testing
 ANOVA and practical applications
 
-## Note
-This repository is actively being developed. New materials, including lab exercises, practice questions, and implementation examples, will be added regularly.
+### Numerical Computations
 
-## Acknowledgments
-Special thanks to DeepLearning.AI and Luis Serrano for creating this comprehensive specialization that makes mathematical concepts accessible for machine learning practitioners.
