@@ -1,5 +1,5 @@
 # Mathematics for Machine Learning and Data Science
-This repository contains learning resources, slides, and materials from the course "Mathematics for Machine Learning and Data Science" taught by Luis Serrano and Deep learning bi Ian Goodfellow. This repository is actively being developed.
+This repository contains learning resources, slides, and materials from the course "Mathematics for Machine Learning and Data Science" taught by Luis Serrano and Deep learning by Ian Goodfellow. This repository is actively being developed.
 ## Repository Structure
 The repository is organized into three main courses:
 ### 1. Linear Algebra for Machine Learning and Data Science (2024 Update)
