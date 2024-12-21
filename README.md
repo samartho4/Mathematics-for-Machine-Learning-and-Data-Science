@@ -10,14 +10,14 @@ The repository is organized into the following key courses:
 
 | **Course Title**                                                                 | **Weeks**   | **Description**                                                     |
 |----------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------|
-| [Linear Algebra for Machine Learning and Data Science (2024 Update)](#linear-algebra-for-machine-learning-and-data-science-2024-update) | Week 1 - 4  | Covers foundational concepts in linear algebra applied to ML.      |
+| [Linear Algebra for Machine Learning and Data Science](#linear-algebra-for-machine-learning-and-data-science-2024-update) | Week 1 - 4  | Covers foundational concepts in linear algebra applied to ML.      |
 | [Calculus for Machine Learning and Data Science](#calculus-for-machine-learning-and-data-science) | Week 1 - 3  | Focuses on derivatives, gradients, and optimization techniques.    |
-| [Probability & Statistics for Machine Learning & Data Science (2024 Update)](#probability--statistics-for-machine-learning--data-science-2024-update) | Week 1 - 4  | Explores probability, distributions, and statistical methods.      |
+| [Probability & Statistics for Machine Learning & Data Science](#probability--statistics-for-machine-learning--data-science-2024-update) | Week 1 - 4  | Explores probability, distributions, and statistical methods.      |
 | [Numerical Computations](#numerical-computations)                                | Coming Soon | Advanced numerical techniques for efficient computations.          |
 
 ---
 
-### 📘 Linear Algebra for Machine Learning and Data Science (2024 Update)
+### 📘 Linear Algebra for Machine Learning and Data Science
 
 | **Week** | **Topics Covered**                                                                 |
 |----------|------------------------------------------------------------------------------------|
@@ -66,7 +66,7 @@ The repository is organized into the following key courses:
 
 ---
 
-### 📙 Probability & Statistics for Machine Learning & Data Science (2024 Update)
+### 📙 Probability & Statistics for Machine Learning & Data Science
 
 | **Week** | **Topics Covered**                                                                 |
 |----------|------------------------------------------------------------------------------------|
