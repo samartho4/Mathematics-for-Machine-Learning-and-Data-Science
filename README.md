@@ -99,3 +99,9 @@ The repository is organized into the following key courses:
 
 ## 🚀 Contribution
 Contributions are welcome! If you'd like to add materials, fix issues, or suggest improvements, please submit a pull request or open an issue.
+
+---
+
+## Author
+[Samarth Sharma](https://github.com/samartho4)
+
